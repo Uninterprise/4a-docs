@@ -54,4 +54,3 @@ VALUES ('Elber','Rojas','Cll 2 #1-12','neiva', 'tarjeta',4);
 INSERT INTO usuario (
 nombre_usuario,apellido_usuario,direccion_usuario,ciudad_usuario,tipo_pago_usuario,id_reserva_usuario) 
 VALUES ('Lucas','Mar','Cll 10 #4-4','morelia', 'tarjeta',5);
-
