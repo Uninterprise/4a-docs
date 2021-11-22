@@ -1,0 +1,14 @@
+Historia de Ususario (Rodrigo Gómez):
+
+Somos Hoteles GRUPO1 una corporación Hotelera con operaciones en las principales ciudades del país Bogotá, Medellín, Cali, Barranquilla y Cartagena, además
+de una operación en Melgar.
+
+En este momento nuestro sitio web esta descentralizado, cada ciudad tiene su servidor y sus bases lo que queremos es lo siguiente:
+
+1) Un sitio web donde nuestros clientes puedan hacer sus reservaciones en cualquiera de las sedes del hotel.
+2) El cliente podrá mirar la disponibilidad de habitaciones y servicios para los días que quiera hacer la reservación.
+3) El cliente pueda contactarse con nosotros en pro de alguna cotización o especificaciones del servicio.
+4) El cliente del hotel pueda ver los servicios y la disponibilidad que tenemos en otras partes del país.
+5) Los funcionarios puedan loggearse y entrar a una pestaña diferente.
+6) Los funcionarios podrán ver la disposición del hotel en todas y cada una de nustras sucursales. 
+7) El funcionario pueda ver el estado de cuenta de un cliente y las reservaciones que tiene.
