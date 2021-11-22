@@ -27,7 +27,6 @@ INSERT INTO reserva (
 lugar_reserva,fecha_reserva,dias_reserva,numero_habitaciones_reserva,fecha_ingreso_reserva,fecha_salida_reserva,numero_personas_reserva) 
 VALUES ('Neiva','2021-08-21',5,1,'2021-08-21','2021-08-26',2);
 
-
 DROP TABLE  IF EXISTS usuario;
 CREATE TABLE usuario (
 	id_usuario SERIAL PRIMARY KEY NOT NULL,
