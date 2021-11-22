@@ -1,4 +1,4 @@
-DROP TABLE  IF EXISTS reserva ;
+DROP TABLE  IF EXISTS reserva;
 
 CREATE TABLE reserva (
 	id_reserva SERIAL PRIMARY KEY NOT NULL,
